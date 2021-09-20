@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke">
+    <test name="Smoke Test" preserve-order="true">
+        <classes>
+         <class name="QA_Project_FarhanHossain.TestCase1"/>
+            <class name="QA_Project_FarhanHossain.TestCase2"/>
+            <class name="QA_Project_FarhanHossain.TestCase3"/>
+            <class name="QA_Project_FarhanHossain.TestCase4"/>
+            <class name="QA_Project_FarhanHossain.TestCase5"/>
+            <class name="QA_Project_FarhanHossain.TestCase6"/>
+            <class name="QA_Project_FarhanHossain.TestCase7"/>
+            <class name="QA_Project_FarhanHossain.TestCase8"/>
+            <class name="QA_Project_FarhanHossain.TestCase9"/>
+            <class name="QA_Project_FarhanHossain.TestCase10"/>
+            <class name="QA_Project_FarhanHossain.TestCase11"/>
+            <class name="QA_Project_FarhanHossain.TestCase12"/>
+            <class name="QA_Project_FarhanHossain.TestCase13"/>
+            <class name="QA_Project_FarhanHossain.TestCase14"/>
+            <class name="QA_Project_FarhanHossain.TestCase15"/>
+        </classes>
+
+    </test>
+</suite><!-- Suite-->
